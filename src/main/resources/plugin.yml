@@ -1,0 +1,7 @@
+name: PortalLinkHelper
+version: '1.0'
+main: com.bennyboy12306.portalLinkHelper.PortalLinkHelper
+api-version: '1.21'
+authors:
+  - Bennyboy12306
+description: Display Portal Link Coordinates upon portal creation
